@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Grant;Michael;;;
+FN:Michael Grant
+TITLE:Independent Consultant – EAF & Ironmaking Optimization
+ORG:Your Company or “Independent Consultant”;
+EMAIL;TYPE=INTERNET;TYPE=WORK:mgkgrant0@gmail.com
+TEL;TYPE=CELL:+49 160 2159 133
+ADR;TYPE=WORK:;;Bad Homburg vor der Höhe;Hessen;;Germany
+URL;TYPE=WORK:https://www.your-domain.com
+NOTE:Independent consultant specializing in electric arc furnace (EAF) and ironmaking technologies\, industrial gas strategies\, and digital workflows.
+END:VCARD
